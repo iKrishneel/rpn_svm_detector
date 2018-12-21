@@ -1,0 +1,5 @@
+sensor_msgs/Image image
+string object_name
+string exec_step
+---
+geometry_msgs/PolygonStamped bbox
